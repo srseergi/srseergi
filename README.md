@@ -49,4 +49,4 @@ using formal patterns and UML modelling.
 
 ## 📬 Contact
 
-[LinkedIn]([www.linkedin.com/in/sergi-alonso-morillas-1a9b18315](https://www.linkedin.com/in/sergi-alonso-morillas-1a9b18315/)) · srseergi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sergi-alonso-morillas-1a9b18315/) · srseergi@gmail.com
