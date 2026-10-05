@@ -1,52 +1,47 @@
-
 # Sergi Alonso Morillas
 
-Software Engineering graduate from FIB · UPC. I build things end-to-end — 
-from requirements and architecture through to implementation and deployment.
-Interested in product-driven development and AI tooling.
+**Software Engineer | Applied AI & Automation**
 
----
+I build software that connects business processes, data, and AI. My experience spans ERP integrations, workflow automation, retrieval systems, and the modernization of existing applications.
 
-## 🎓 Education
+I work from requirements and architecture through implementation, with attention to maintainability, operational constraints, and the teams using the software.
 
-**B.Sc. Computer Science — Software Engineering**  
-Facultat d'Informàtica de Barcelona (FIB) · UPC · Graduated Jan 2026
+## Professional Experience
 
-Specialization in Software Architecture. Academic projects covered the full 
-software lifecycle: stakeholder requirements elicitation, system design, 
-UML modelling, implementation, testing, and deployment.
+My work focuses on applying AI and software engineering to business operations:
 
----
+- **AI integration:** Connect applications, ERPs, and data sources through local models, external APIs, MCP servers, and custom tools.
+- **Process automation:** Design workflows for invoice processing, report generation, and access to operational data.
+- **Agent design:** Define which decisions a model can make, which operations require predefined rules, and what controls each task needs.
+- **Retrieval systems:** Build data processing and semantic search pipelines with RAG and Milvus, evaluating retrieval strategies against support use cases.
+- **Software modernization:** Refactor legacy applications, update frameworks, develop features, and diagnose performance bottlenecks.
 
-## 🚀 Projects
+## Selected Contributions
 
-### AI Career Optimizer (TFG)
-Mobile app that bridges the gap between candidate CVs and job descriptions 
-using AI-driven insights. Sole engineer — owned everything from user research 
-to shipping.
+### [Inertia](https://github.com/eduardtomas1/inertia)
 
-- Kotlin frontend · Django (Python) backend
-- Automated job discovery via Selenium scraping
-- OpenAI API integration for real-time CV analysis
-- Personalized learning suggestions and CV improvement recommendations
+Contributor to a desktop workspace for coding agents that brings together conversations, project files, terminals, and Git review. My contributions include Linux fixes, update handling, and work tracking features.
 
-### Software Systems Architecture (FIB · UPC)
-Academic projects designing scalable, maintainable software systems.
-Went from stakeholder requirements through to full architectural design 
-using formal patterns and UML modelling.
+### [AireLliure](https://github.com/pes2425q2-m-gei-upc/AireLliure-FrontEnd)
 
----
+Contributed to an Android application built with Kotlin and Jetpack Compose as part of a university team. My work included authentication, backend integration, user profiles, settings, and navigation.
 
-## 🛠 Skills
+## Technical Stack
 
-**Languages:** Java, Python, JavaScript, Kotlin, C++, SQL, TypeScript (learning)  
-**Frameworks:** Django, Android SDK, React, Node.js  
-**AI & Automation:** OpenAI API, Selenium, RAG, n8n  
-**Databases:** PostgreSQL, SQL design, query optimization  
-**Tools:** Git, Linux, Docker (basics), IntelliJ, VS Code  
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Java, TypeScript, Kotlin, C++, SQL |
+| Backend & Integration | Django, FastAPI, REST APIs |
+| AI & Automation | OpenAI API, MCP, n8n, RAG, Milvus |
+| Mobile | Android, Jetpack Compose |
+| Data & Tools | PostgreSQL, Docker, Git, Linux |
 
----
+## Education
 
-## 📬 Contact
+**B.Sc. in Computer Science, specializing in Software Engineering**  
+Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC)  
+Graduated January 2026.
 
-[LinkedIn](https://www.linkedin.com/in/sergi-alonso-morillas-1a9b18315/) · srseergi@gmail.com
+## Contact
+
+[Website](https://sergialonso.com) | [LinkedIn](https://www.linkedin.com/in/sergi-alonso-morillas-1a9b18315/) | [sergiam.swe@gmail.com](mailto:sergiam.swe@gmail.com)
