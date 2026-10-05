@@ -16,16 +16,6 @@ My work focuses on applying AI and software engineering to business operations:
 - **Retrieval systems:** Build data processing and semantic search pipelines with RAG and Milvus, evaluating retrieval strategies against support use cases.
 - **Software modernization:** Refactor legacy applications, update frameworks, develop features, and diagnose performance bottlenecks.
 
-## Selected Contributions
-
-### [Inertia](https://github.com/eduardtomas1/inertia)
-
-Contributor to a desktop workspace for coding agents that brings together conversations, project files, terminals, and Git review. My contributions include Linux fixes, update handling, and work tracking features.
-
-### [AireLliure](https://github.com/pes2425q2-m-gei-upc/AireLliure-FrontEnd)
-
-Contributed to an Android application built with Kotlin and Jetpack Compose as part of a university team. My work included authentication, backend integration, user profiles, settings, and navigation.
-
 ## Technical Stack
 
 | Area | Technologies |
